@@ -6,7 +6,7 @@
 
 A AT de grafos e algoritmos computacionais envolve a criação de um projeto de programação, cujo o aluno foi permitido a escolha da linguagem de programação, sob o objetivo da criação de um visualizador de grafos.
 
-O projeto consiste em desenvolver uma aplicação, onde será recebido um grafo de tamanho manejável, para posteriormente ser executado uma busca pelo melhor caminho possível pelo grafo. O algoritmo de busca também não foi especificado, porém recomendado dentre o algoritmo de Djikstra (escolhido para este programa), busca por profundidade ou largura e algoritmo de Prim ou Kruskal.
+O projeto consiste em desenvolver uma aplicação, onde será recebido um grafo de tamanho manejável, para posteriormente ser executado uma busca pelo melhor caminho possível pelo grafo. O algoritmo de busca também não foi especificado, porém recomendado dentre o algoritmo de Djikstra, busca por profundidade ou largura e algoritmo de Prim ou Kruskal.
 
  ## Objetivo ##
 
